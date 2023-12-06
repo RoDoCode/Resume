@@ -3,7 +3,7 @@
 /*--------------------------------------------Colors*/
 
 .bg-color-name-title {
-    background-color: #676767;
+    background-color: #e7b882;
 }
 
 .bg-color-three-reasons {
@@ -19,7 +19,7 @@
 }
 
 .bg-color-work-history {
-    background-color: #9b59b6;
+    background-color: #8a7773;
 }
 
 .bg-color-contact {
@@ -35,28 +35,28 @@
 }
 
 .ui-menu-color-home {
-    background-color: #968919; /*#e67e22;*/
+    background-color: #68652a; /*#e67e22;*/
 }
 
 .ui-menu-color-resume {
-    background-color: #923815; /*#9b59b6;*/
+    background-color: #8a7773; /*#9b59b6;*/
 }
 
 .ui-menu-color-contact {
-    background-color: #92cfb1; /*#3498db;*/
+    background-color: #f9d782; /*#3498db;*/
 }
 
 .ui-menu-color-download {
-    background-color: #243f58; /*#d9a81d;*/
+    background-color: #aa6c5c; /*#d9a81d;*/
 }
 
 
 .ui-menu-color-github {
-    background-color: #031b1b; /*#1c4a6c;*/
+    background-color: #3f495f; /*#1c4a6c;*/
 }
 
 .ui-menu-color-interests {
-    background-color: #a0dab9; /*#e74c3c;*/
+    background-color: #b9cae3; /*#e74c3c;*/
 }
 
 
@@ -118,7 +118,7 @@ header {
 }
 
 .logo {
-    background: url("../images/rory-pic-hat.jpg");
+    background: url("../images/rory-pic-hat.JPG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
